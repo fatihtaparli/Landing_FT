@@ -1,0 +1,15 @@
+/* Text */
+.text-center{
+    text-align: center;
+}
+.heading-small{
+    font-size: 1.25 rem;
+}
+.heading-medium{
+    font-size: 1.50 rem;
+}
+.heading-big{
+    font-size: 1.75 rem;
+}
+
+/* Colors */
